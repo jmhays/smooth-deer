@@ -10,7 +10,8 @@ Welcome to smooth DEER's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   modules
+   smooth_deer
 
 Indices and tables
 ==================

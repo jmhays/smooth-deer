@@ -12,6 +12,14 @@ smooth\_deer.gaussian module
     :undoc-members:
     :show-inheritance:
 
+smooth\_deer.smooth\_multi\_pair module
+---------------------------------------
+
+.. automodule:: smooth_deer.smooth_multi_pair
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 
 Module contents
 ---------------
